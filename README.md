@@ -1,7 +1,7 @@
 <h3 align="center">👩🏻‍💻 About Me </h3>
 <div align="center" >
 <div>안녕하세요 프론트엔드를 지망하는 grit입니다! :)</div>
-![Grit03's github stats](https://github-readme-stats.vercel.app/api?username=Grit03&show_icons=true&theme=radical)<br/>
+![Grit's github stats](https://github-readme-stats.vercel.app/api?username=Grit03&show_icons=true&theme=radical)
 <a href="https://www.instagram.com/dev.grit/"><img src="https://img.shields.io/badge/dev.grit-E4405F?style=sociale&logo=Instagram&logoColor=white&link=https://www.instagram.com/dev.grit/"/></a>
 </div>
 <h3 align="center">🛠️ Tech Stacks 🛠️</h3>
