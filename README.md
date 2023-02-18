@@ -1,7 +1,7 @@
 <h3 align="center">👩🏻‍💻 About Me </h3>
 <div align=center>
 <a href="https://www.instagram.com/dev.grit/"><img src="https://img.shields.io/badge/dev.grit-E4405F?style=sociale&logo=Instagram&logoColor=white&link=https://www.instagram.com/dev.grit/"/></a>
-<div>안녕하세요 프론트엔드를 지망하는 grit입니다! :)</div></br>
+<div>안녕하세요 프론트엔드 개발자 grit입니다! :)</div></br>
 
 ![Grit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grit03&theme=radical)
 
