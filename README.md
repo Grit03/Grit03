@@ -1,9 +1,10 @@
 <h3 align="center">👩🏻‍💻 About Me </h3>
 <div align=center>
 <a href="https://www.instagram.com/dev.grit/"><img src="https://img.shields.io/badge/dev.grit-E4405F?style=sociale&logo=Instagram&logoColor=white&link=https://www.instagram.com/dev.grit/"/></a>
-
-<div>안녕하세요 프론트엔드 개발자 grit입니다! :)</div>
-<a href="https://www.notion.so/Grit-04eb5e8d12214f5693b564cd3ff2b6a5?pvs=4" style='color: none; text-decoration: none;' >📄 노션 이력서&포트폴리오 보기</a>
+<br/><br/>
+<div>안녕하세요!! 프론트엔드 개발자 grit입니다! :)</div>
+<br/>
+<a href="https://foggy-science-cab.notion.site/Grit-04eb5e8d12214f5693b564cd3ff2b6a5?pvs=4" style='color: none; text-decoration: none;' >📄 노션 이력서&포트폴리오 보기</a>
 <br/><br/>
 
 ![Grit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grit03&theme=radical)
