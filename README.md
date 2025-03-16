@@ -28,7 +28,7 @@
 | --- | ------- | ----------- | ---------- | ---- |---- |
 | **1** | [이미지 생성 AI 기반 맞춤형 의류 디자인 툴: Tindy](https://github.com/gamechanger-konkuk/frontend) | 학부: 졸업 프로젝트 | Next.js | [배포 사이트(서버 중단)](https://tindy.vercel.app/) | 2024 |
 | **2** | 한국 전통주 시음 노트 플랫폼: Juulabel | 주라벨 창업 프로젝트 | Next.js | [랜딩 페이지](https://juulabel.com/) | 2024 |
-| **3** | [사랑을 기록하는 커플 캘린더: Lovendar](https://github.com/PICO-CALENDAR/LOVENDAR-FRONT) | 학부: 드림학기제 창업형 | Flutter | [랜딩 페이지](https://lovendar.vercel.app/) | 2024 (진행 중) |
+| **3** | [사랑을 기록하는 커플 캘린더: Lovendar](https://github.com/PICO-CALENDAR/LOVENDAR-FRONT) | 학부: 드림학기제 창업형 | Flutter | [랜딩 페이지](https://lovendar.vercel.app/) | 2024 <br /> (진행 중) |
 <br />
 
 ## ✨ Projects
