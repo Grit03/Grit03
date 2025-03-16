@@ -18,10 +18,10 @@
 ## 💼 Development Experiences
 [📋 노션 포트폴리오 바로가기](https://foggy-science-cab.notion.site/Grit-04eb5e8d12214f5693b564cd3ff2b6a5?pvs=4)
 
-| Organization | Period | Role |
-|:-------:| ----------- |:----------:|
-| (주) 픽쳐온 | 2023.02 - 2024.03 <br /> 2024.09 - 2024.12 |  FE Developer <br /> (Part-time) |
-<br />
+| Organization | Period | Role | Description |
+|:-------:| ----------- |:----------:| ---- |
+| (주) 픽쳐온 | 2023.02 - 2024.03 <br /> 2024.09 - 2024.12 |  FE Developer <br /> (Part-time) | **[웹 기반 안내방송 및 TTS 서비스 제작]** <br /> • React 기반 어드민 개발 <br />  • 안내방송 보고서 및 견적서 자동생성 기능 구현 <br /> • 서비스 유지보수 및 랜딩페이지 개발 |  
+<br /> 
 
 ## ✨ Main Projects
 |  #  | Project | Description | Tech Stack | Link | Year |
