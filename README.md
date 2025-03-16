@@ -24,20 +24,20 @@
 <br /> 
 
 ## ✨ Main Projects
-|  #  | Project | Description | Tech Stack | Link | Year |
-| --- | ------- | ----------- | ---------- | ---- |---- |
-| **1** | [이미지 생성 AI 기반 맞춤형 의류 디자인 툴: Tindy](https://github.com/gamechanger-konkuk/frontend) | 학부: 졸업 프로젝트 | Next.js | [배포 사이트(서버 중단)](https://tindy.vercel.app/) | 2024 |
-| **2** | 한국 전통주 시음 노트 플랫폼: Juulabel | 주라벨 창업 프로젝트 | Next.js | [랜딩 페이지](https://juulabel.com/) | 2024 |
-| **3** | [사랑을 기록하는 커플 캘린더: Lovendar](https://github.com/PICO-CALENDAR/LOVENDAR-FRONT) | 학부: 드림학기제 창업형 | Flutter | [랜딩 페이지](https://lovendar.vercel.app/) | 2024 <br /> (진행 중) |
+|  #  | Project | Description | Tech Stack | Year | Link |
+| --- | ------- | ----------- | ---------- | ---- | ---- |
+| **1** | [이미지 생성 AI 기반 맞춤형 의류 디자인 툴: Tindy](https://github.com/gamechanger-konkuk/frontend) | 학부: 졸업 프로젝트 | Next.js | 2024 | [배포 사이트(서버 중단)](https://tindy.vercel.app/) |
+| **2** | 한국 전통주 시음 노트 플랫폼: Juulabel | 주라벨 창업 프로젝트 | Next.js | 2024 | [랜딩 페이지](https://juulabel.com/) |
+| **3** | [사랑을 기록하는 커플 캘린더: Lovendar](https://github.com/PICO-CALENDAR/LOVENDAR-FRONT) | 학부: 드림학기제 창업형 | Flutter | 2024 <br /> (진행 중) | [랜딩 페이지](https://lovendar.vercel.app/) |
 <br />
 
 ## ✨ Projects
-|  #  | Project | Description | Tech Stack | Year |
-| --- | ------- | ----------- | ---------- | ---- |
-| **1** | [멀티모달 AI 챗봇과의 대화를 통한 <br/> 펫로스 극복 서비스: Eternal Tales](https://github.com/eternal-tales/frontend) | 프로메테우스 해커톤 | React | 2024 |
-| **2** | [이미지 문서 오토라벨링 서비스: DAWAT](https://github.com/jiheunkim/Dawat) | 학부: 산학협력 프로젝트 | React | 2024 |
-| **3** | [이미지 기반 감사일기 앱: Thanks:D](https://github.com/Konkuk-ThanksD) | 학부: K-Lab 프로젝트 | Android(Jetpack Compose), Kotlin | 2023 |
-| **3** | [독서 기록 및 커뮤니티 앱: 북두칠성](https://github.com/BigDipperApp/BigDipper) | 학부: 모바일 프로그래밍 | Android, Kotlin | 2023 |
-| **4** | [암호화폐 시세 조회 사이트: Coin-tracker](https://github.com/Grit03/coin-tracker) | 개인 프로젝트 | React | 2022, 2023 |
-| **5** | [메이플스토리 Brick Out](https://github.com/Grit03/webTeamProject) | 학부: 웹 프로그래밍 | HTML, CSS, JS, JQuery | 2022 |
+|  #  | Project | Description | Tech Stack | Year | Link |
+| --- | ------- | ----------- | ---------- | ---- | ---- |
+| **1** | [멀티모달 AI 챗봇과의 대화를 통한 <br/> 펫로스 극복 서비스: Eternal Tales](https://github.com/eternal-tales/frontend) | 프로메테우스 해커톤 | React | 2024 | - |
+| **2** | [이미지 문서 오토라벨링 서비스: DAWAT](https://github.com/jiheunkim/Dawat) | 학부: 산학협력 프로젝트 | React | 2024 | - |
+| **3** | [이미지 기반 감사일기 앱: Thanks:D](https://github.com/Konkuk-ThanksD) | 학부: K-Lab 프로젝트 | Android(Jetpack Compose), Kotlin | 2023 | - |
+| **3** | [독서 기록 및 커뮤니티 앱: 북두칠성](https://github.com/BigDipperApp/BigDipper) | 학부: 모바일 프로그래밍 | Android, Kotlin | 2023 | - |
+| **4** | [암호화폐 시세 조회 사이트: Coin-tracker](https://github.com/Grit03/coin-tracker) | 개인 프로젝트 | React | 2022, 2023 | [배포 사이트](https://grit03.github.io/coin-tracker/) |
+| **5** | [메이플스토리 Brick Out](https://github.com/Grit03/webTeamProject) | 학부: 웹 프로그래밍 | HTML, CSS, JS, JQuery | 2022 | [배포 사이트](https://grit03.github.io/webTeamProject/) |
 
