@@ -18,9 +18,9 @@
 ## 💼 Development Experiences
 [📋 노션 포트폴리오 바로가기](https://foggy-science-cab.notion.site/Grit-04eb5e8d12214f5693b564cd3ff2b6a5?pvs=4)
 
-| Organization | Period | Role | Description |
-|:-------:| ----------- |:----------:| ---- |
-| (주) 픽쳐온 | 2023.02 - 2024.03 <br /> 2024.09 - 2024.12 |  FE Developer <br /> (Part-time) | **[웹 기반 안내방송 및 TTS 서비스 제작]** <br /> • React 기반 어드민 개발 <br />  • 안내방송 보고서 및 견적서 자동생성 기능 구현 <br /> • 서비스 유지보수 및 랜딩페이지 개발 |  
+| Organization | Period | Role | Description | Link |
+|:-------:| ----------- |:----------:| ---- |:----:|
+| (주) 픽쳐온 | 2023.02 - 2024.03 <br /> 2024.09 - 2024.12 |  FE Developer <br /> (Part-time) | **[웹 기반 안내방송 및 TTS 서비스 제작]** <br /> • React 기반 어드민 개발 <br />  • 안내방송 보고서 및 견적서 자동생성 기능 구현 <br /> • 서비스 유지보수 및 랜딩페이지 개발 |  [웹사이트](https://www.wemakevoice.com/) |
 <br /> 
 
 ## ✨ Main Projects
@@ -35,8 +35,8 @@
 |  #  | Project | Description | Tech Stack | Year | Link |
 | --- | ------- | ----------- | ---------- | ---- |:----:|
 | **1** | [멀티모달 AI 챗봇과의 대화를 통한 <br/> 펫로스 극복 서비스: Eternal Tales](https://github.com/eternal-tales/frontend) | 프로메테우스 해커톤 | React | 2024 | - |
-| **2** | [이미지 문서 오토라벨링 서비스: DAWAT](https://github.com/jiheunkim/Dawat) | 학부: 산학협력 프로젝트 | React | 2024 | - |
-| **3** | [이미지 기반 감사일기 앱: Thanks:D](https://github.com/Konkuk-ThanksD) | 학부: K-Lab 프로젝트 | Android(Jetpack Compose), Kotlin | 2023 | - |
+| **2** | [이미지 문서 오토라벨링 서비스: DAWAT](https://github.com/jiheunkim/Dawat) | 학부: 산학협력프로젝트 | React | 2024 | - |
+| **3** | [이미지 기반 감사일기 앱: Thanks:D](https://github.com/Konkuk-ThanksD) | 학부: K-Lab프로젝트 | Android(Jetpack Compose), Kotlin | 2023 | - |
 | **3** | [독서 기록 및 커뮤니티 앱: 북두칠성](https://github.com/BigDipperApp/BigDipper) | 학부: 모바일 프로그래밍 | Android, Kotlin | 2023 | - |
 | **4** | [암호화폐 시세 조회 사이트: Coin-tracker](https://github.com/Grit03/coin-tracker) | 개인 프로젝트 | React | 2022, 2023 | [웹사이트](https://grit03.github.io/coin-tracker/) |
 | **5** | [메이플스토리 Brick Out](https://github.com/Grit03/webTeamProject) | 학부: 웹 프로그래밍 | HTML, CSS, JS, JQuery | 2022 | [웹사이트](https://grit03.github.io/webTeamProject/) |
