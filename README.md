@@ -1,10 +1,9 @@
 ### 🍀 About Me
-Hello! I'm **Gyuri**, a frontend developer. 👋
-
-- I enjoy **building and improving products** as a maker.
-- I'm interested in **creating better user experiences** for more people.
-- I like **taking deep dives into the underlying abstractions** behind technologies, rather than just using them
-  - I genuinely enjoy **the process of understanding how things work**.
+Hello! I'm **Gyuri**, a frontend developer. 👋 <br /><br />
+I enjoy **building and improving products** as a maker. <br />
+I'm interested in **creating better user experiences** for more people. <br />
+I like **taking deep dives into the underlying abstractions** behind technologies, rather than just using them. <br />
+I genuinely enjoy **the process of understanding how things work**. <br />
 
 
 ### 👩🏻‍💻 Experience & Education
