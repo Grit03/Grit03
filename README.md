@@ -11,7 +11,7 @@ I genuinely enjoy **the process of understanding how things work**. <br />
 `2025.06 — 2026.02` Boostcamp Web·Mobile 10th (NAVER Connect Foundation) <br />
 `2024.04 — 2025.07` Golden Planet — Frontend Developer (Part-time) <br />
 `2023.02- 2024.03, 2024.09 - 2024.12` Wemakevoice — Freelance Frontend Developer <br />
-
+<br />
 
 <details>
 <summary>자세히 보기</summary>
