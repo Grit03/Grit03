@@ -10,7 +10,7 @@ I genuinely enjoy **the process of understanding how things work**. <br />
 `2020.03 - 2026.02` Bachelor’s in Computer Science, Konkuk University <br />
 `2025.06 — 2026.02` Boostcamp Web·Mobile 10th (NAVER Connect Foundation) <br />
 `2024.04 — 2025.07` Golden Planet — Frontend Developer (Part-time) <br />
-`2025.03 ~ 2025.08` MASH-UP IT Club, 15th Web Member
+`2025.03 ~ 2025.08` MASH-UP IT Club, 15th Web Member <br />
 `2023.02- 2024.03, 2024.09 - 2024.12` Wemakevoice — Freelance Frontend Developer <br />
 
 <br />
